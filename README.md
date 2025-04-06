@@ -1,4 +1,4 @@
-# User Management System
+# User Management System - backend
 
 A full-stack application for managing user accounts with features like email sign-up, verification, authentication, role-based authorization, and CRUD operations.
 
